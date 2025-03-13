@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace RCinema_db.FrontEnd.Default
+namespace RCinema_db.FrontEnd.DefaultDefaultCinemaImagesPath
 {
     public static class DefaultPaths
     {
