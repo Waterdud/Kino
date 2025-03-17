@@ -114,13 +114,13 @@ namespace RCinema_db.User
                     }
                     else
                     {
-                        picbox_Movie_Poster.Image = DefaultImage.GetDefaultImage();  
+                        picbox_Movie_Poster.Image = Default.DefaultImage.GetDefaultImage();  
                     }
                 }
                 catch (Exception ex)
                 {
                     Debug.WriteLine($"An error occurred while loading the poster: {ex.Message}");
-                    picbox_Movie_Poster.Image = DefaultImage.GetDefaultImage();  
+                    picbox_Movie_Poster.Image = Default.DefaultImage.GetDefaultImage();  
                 }
             }
         }

@@ -145,7 +145,7 @@ namespace RCinema_db.UserForm
 
                     using (SmtpClient smtp = new SmtpClient("smtp.gmail.com", 587))
                     {
-                        smtp.Credentials = new NetworkCredential("glebsotjov@gmail.com", "wzcy ivdv wyke hmeb");
+                        smtp.Credentials = new NetworkCredential("glebsotjov@gmail.com", "ajea dqxd gxvz ndsd");
                         smtp.EnableSsl = true;
                         smtp.Send(mail);
                     }

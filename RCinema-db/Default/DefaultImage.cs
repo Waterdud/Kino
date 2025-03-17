@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RCinema_db.FrontEnd.Default
+namespace RCinema_db.Default
 {
     public static class DefaultImage
     {

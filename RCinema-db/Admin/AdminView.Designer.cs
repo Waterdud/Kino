@@ -39,7 +39,7 @@
             btn_Log_Out.Cursor = Cursors.Hand;
             btn_Log_Out.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             btn_Log_Out.ForeColor = Color.Firebrick;
-            btn_Log_Out.Location = new Point(360, 352);
+            btn_Log_Out.Location = new Point(354, 267);
             btn_Log_Out.Name = "btn_Log_Out";
             btn_Log_Out.Size = new Size(87, 33);
             btn_Log_Out.TabIndex = 24;
@@ -53,7 +53,7 @@
             btn_EditMovie.Cursor = Cursors.Hand;
             btn_EditMovie.Font = new Font("Segoe UI Semibold", 14.25F, FontStyle.Bold);
             btn_EditMovie.ForeColor = Color.Black;
-            btn_EditMovie.Location = new Point(291, 237);
+            btn_EditMovie.Location = new Point(167, 190);
             btn_EditMovie.Name = "btn_EditMovie";
             btn_EditMovie.Size = new Size(219, 40);
             btn_EditMovie.TabIndex = 23;
@@ -67,7 +67,7 @@
             btn_EditUser.Cursor = Cursors.Hand;
             btn_EditUser.Font = new Font("Segoe UI Semibold", 14.25F, FontStyle.Bold);
             btn_EditUser.ForeColor = Color.Black;
-            btn_EditUser.Location = new Point(291, 156);
+            btn_EditUser.Location = new Point(403, 190);
             btn_EditUser.Name = "btn_EditUser";
             btn_EditUser.Size = new Size(219, 39);
             btn_EditUser.TabIndex = 22;

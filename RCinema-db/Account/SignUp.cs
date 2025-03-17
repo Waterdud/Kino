@@ -80,5 +80,7 @@ namespace RCinema_db.Account
                 MessageBox.Show("Please fill in all fields");
             }
         }
+
+        
     }
 }

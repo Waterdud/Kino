@@ -43,7 +43,7 @@
             // 
             // txt_Password
             // 
-            txt_Password.Location = new Point(294, 276);
+            txt_Password.Location = new Point(103, 264);
             txt_Password.Name = "txt_Password";
             txt_Password.PasswordChar = '*';
             txt_Password.Size = new Size(260, 23);
@@ -51,21 +51,21 @@
             // 
             // txt_Email
             // 
-            txt_Email.Location = new Point(294, 123);
+            txt_Email.Location = new Point(103, 122);
             txt_Email.Name = "txt_Email";
             txt_Email.Size = new Size(260, 23);
             txt_Email.TabIndex = 32;
             // 
             // txt_LastName
             // 
-            txt_LastName.Location = new Point(294, 222);
+            txt_LastName.Location = new Point(103, 219);
             txt_LastName.Name = "txt_LastName";
             txt_LastName.Size = new Size(260, 23);
             txt_LastName.TabIndex = 31;
             // 
             // txt_FirstName
             // 
-            txt_FirstName.Location = new Point(294, 173);
+            txt_FirstName.Location = new Point(103, 173);
             txt_FirstName.Name = "txt_FirstName";
             txt_FirstName.Size = new Size(260, 23);
             txt_FirstName.TabIndex = 30;
@@ -76,7 +76,7 @@
             lbl_LogIn.Cursor = Cursors.Hand;
             lbl_LogIn.Font = new Font("Segoe UI", 11.25F, FontStyle.Bold | FontStyle.Underline);
             lbl_LogIn.ForeColor = Color.Yellow;
-            lbl_LogIn.Location = new Point(396, 317);
+            lbl_LogIn.Location = new Point(117, 347);
             lbl_LogIn.Name = "lbl_LogIn";
             lbl_LogIn.Size = new Size(60, 20);
             lbl_LogIn.TabIndex = 29;
@@ -88,7 +88,7 @@
             lbl_FirstName.AutoSize = true;
             lbl_FirstName.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             lbl_FirstName.ForeColor = SystemColors.Control;
-            lbl_FirstName.Location = new Point(378, 149);
+            lbl_FirstName.Location = new Point(12, 171);
             lbl_FirstName.Name = "lbl_FirstName";
             lbl_FirstName.Size = new Size(85, 21);
             lbl_FirstName.TabIndex = 27;
@@ -100,7 +100,7 @@
             btn_SignUp.Cursor = Cursors.Hand;
             btn_SignUp.Font = new Font("Segoe UI", 15.75F, FontStyle.Bold);
             btn_SignUp.ForeColor = SystemColors.Window;
-            btn_SignUp.Location = new Point(299, 354);
+            btn_SignUp.Location = new Point(30, 370);
             btn_SignUp.Name = "btn_SignUp";
             btn_SignUp.Size = new Size(255, 43);
             btn_SignUp.TabIndex = 26;
@@ -113,7 +113,7 @@
             lbl_LastName.AutoSize = true;
             lbl_LastName.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
             lbl_LastName.ForeColor = SystemColors.Control;
-            lbl_LastName.Location = new Point(386, 199);
+            lbl_LastName.Location = new Point(12, 219);
             lbl_LastName.Name = "lbl_LastName";
             lbl_LastName.Size = new Size(77, 20);
             lbl_LastName.TabIndex = 25;
@@ -124,7 +124,7 @@
             lbl_Password.AutoSize = true;
             lbl_Password.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
             lbl_Password.ForeColor = SystemColors.Control;
-            lbl_Password.Location = new Point(386, 253);
+            lbl_Password.Location = new Point(12, 264);
             lbl_Password.Name = "lbl_Password";
             lbl_Password.Size = new Size(73, 20);
             lbl_Password.TabIndex = 23;
@@ -135,7 +135,7 @@
             lbl_Username.AutoSize = true;
             lbl_Username.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
             lbl_Username.ForeColor = SystemColors.Control;
-            lbl_Username.Location = new Point(386, 100);
+            lbl_Username.Location = new Point(12, 122);
             lbl_Username.Name = "lbl_Username";
             lbl_Username.Size = new Size(78, 20);
             lbl_Username.TabIndex = 22;
@@ -146,18 +146,18 @@
             lbl_Title_SignUp.AutoSize = true;
             lbl_Title_SignUp.Font = new Font("Segoe UI", 21.75F, FontStyle.Bold);
             lbl_Title_SignUp.ForeColor = Color.Olive;
-            lbl_Title_SignUp.Location = new Point(299, 9);
+            lbl_Title_SignUp.Location = new Point(30, 25);
             lbl_Title_SignUp.Name = "lbl_Title_SignUp";
-            lbl_Title_SignUp.Size = new Size(255, 40);
+            lbl_Title_SignUp.Size = new Size(120, 40);
             lbl_Title_SignUp.TabIndex = 20;
-            lbl_Title_SignUp.Text = "DOTNET Cinemas";
+            lbl_Title_SignUp.Text = "Cinema";
             // 
             // SignUp
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveCaptionText;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(509, 450);
             Controls.Add(txt_Password);
             Controls.Add(txt_Email);
             Controls.Add(txt_LastName);

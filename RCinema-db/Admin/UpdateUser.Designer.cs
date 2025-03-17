@@ -53,7 +53,7 @@
             btn_DeleteUser.BackColor = Color.OliveDrab;
             btn_DeleteUser.Cursor = Cursors.Hand;
             btn_DeleteUser.ForeColor = Color.White;
-            btn_DeleteUser.Location = new Point(898, 447);
+            btn_DeleteUser.Location = new Point(824, 152);
             btn_DeleteUser.Name = "btn_DeleteUser";
             btn_DeleteUser.Size = new Size(140, 77);
             btn_DeleteUser.TabIndex = 40;
@@ -75,7 +75,7 @@
             btn_CreateNewUser.BackColor = Color.OliveDrab;
             btn_CreateNewUser.Cursor = Cursors.Hand;
             btn_CreateNewUser.ForeColor = Color.White;
-            btn_CreateNewUser.Location = new Point(898, 291);
+            btn_CreateNewUser.Location = new Point(742, 61);
             btn_CreateNewUser.Name = "btn_CreateNewUser";
             btn_CreateNewUser.Size = new Size(140, 72);
             btn_CreateNewUser.TabIndex = 37;
@@ -86,28 +86,28 @@
             // 
             // textBox_lastName
             // 
-            textBox_lastName.Location = new Point(478, 244);
+            textBox_lastName.Location = new Point(314, 256);
             textBox_lastName.Name = "textBox_lastName";
             textBox_lastName.Size = new Size(165, 23);
             textBox_lastName.TabIndex = 36;
             // 
             // textBox_firstName
             // 
-            textBox_firstName.Location = new Point(479, 201);
+            textBox_firstName.Location = new Point(314, 224);
             textBox_firstName.Name = "textBox_firstName";
             textBox_firstName.Size = new Size(165, 23);
             textBox_firstName.TabIndex = 35;
             // 
             // textBox_Password
             // 
-            textBox_Password.Location = new Point(479, 166);
+            textBox_Password.Location = new Point(314, 186);
             textBox_Password.Name = "textBox_Password";
             textBox_Password.Size = new Size(161, 23);
             textBox_Password.TabIndex = 34;
             // 
             // textBox_Username
             // 
-            textBox_Username.Location = new Point(479, 123);
+            textBox_Username.Location = new Point(314, 149);
             textBox_Username.Name = "textBox_Username";
             textBox_Username.Size = new Size(170, 23);
             textBox_Username.TabIndex = 33;
@@ -115,7 +115,7 @@
             // textBox_UserId
             // 
             textBox_UserId.CausesValidation = false;
-            textBox_UserId.Location = new Point(286, 123);
+            textBox_UserId.Location = new Point(314, 110);
             textBox_UserId.Name = "textBox_UserId";
             textBox_UserId.ReadOnly = true;
             textBox_UserId.Size = new Size(93, 23);
@@ -125,7 +125,7 @@
             // 
             label5.AutoSize = true;
             label5.ForeColor = SystemColors.Control;
-            label5.Location = new Point(409, 247);
+            label5.Location = new Point(240, 259);
             label5.Name = "label5";
             label5.Size = new Size(63, 15);
             label5.TabIndex = 31;
@@ -135,7 +135,7 @@
             // 
             label4.AutoSize = true;
             label4.ForeColor = SystemColors.Control;
-            label4.Location = new Point(409, 206);
+            label4.Location = new Point(240, 224);
             label4.Name = "label4";
             label4.Size = new Size(64, 15);
             label4.TabIndex = 30;
@@ -145,7 +145,7 @@
             // 
             label3.AutoSize = true;
             label3.ForeColor = SystemColors.Control;
-            label3.Location = new Point(416, 166);
+            label3.Location = new Point(240, 189);
             label3.Name = "label3";
             label3.Size = new Size(57, 15);
             label3.TabIndex = 29;
@@ -155,7 +155,7 @@
             // 
             label2.AutoSize = true;
             label2.ForeColor = SystemColors.Control;
-            label2.Location = new Point(413, 126);
+            label2.Location = new Point(240, 152);
             label2.Name = "label2";
             label2.Size = new Size(60, 15);
             label2.TabIndex = 28;
@@ -166,7 +166,7 @@
             label1.AutoSize = true;
             label1.CausesValidation = false;
             label1.ForeColor = SystemColors.Control;
-            label1.Location = new Point(240, 126);
+            label1.Location = new Point(240, 113);
             label1.Name = "label1";
             label1.Size = new Size(40, 15);
             label1.TabIndex = 27;
@@ -177,7 +177,7 @@
             btn_UpdateData.BackColor = Color.OliveDrab;
             btn_UpdateData.Cursor = Cursors.Hand;
             btn_UpdateData.ForeColor = Color.White;
-            btn_UpdateData.Location = new Point(898, 369);
+            btn_UpdateData.Location = new Point(913, 61);
             btn_UpdateData.Name = "btn_UpdateData";
             btn_UpdateData.Size = new Size(140, 72);
             btn_UpdateData.TabIndex = 26;
